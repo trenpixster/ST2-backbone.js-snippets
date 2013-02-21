@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[${1:method_name}: function() {
+  ${0:// body...}
+},
+]]></content>
+    <tabTrigger>bbm</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone.js method add</description>
+</snippet>
