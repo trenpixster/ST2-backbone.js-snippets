@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[Handlebars.registerHelper('${1:method_name}', function(${2:args}) {
+  ${3:the_real_work}
+  return;
+});
+function(${1:params}) { ${2:body } }]]></content>
+    <tabTrigger>hbh</tabTrigger>
+    <scope>source.js</scope>
+    <description>Handlebars helper method</description>
+</snippet>

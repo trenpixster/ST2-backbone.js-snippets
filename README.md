@@ -10,3 +10,5 @@ _This is work in progress_
 
 __iafn__ - Inline Anonymous Function
 __bbm__ - Backbone Method
+__hbh__ - Handlebars Helper method
+__hbhc__ - Handlebars Helper conditional method 

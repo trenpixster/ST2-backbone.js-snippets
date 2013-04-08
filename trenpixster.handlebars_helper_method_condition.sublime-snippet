@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[Handlebars.registerHelper('${1:method_name}', function(${2:condition},block) {
+  if(${2:condition}){
+    return block(this); 
+  } else {
+   return block.inverse(this);
+  }
+});
+function(${1:params}) { ${2:body } }]]></content>
+    <tabTrigger>hbhc</tabTrigger>
+    <scope>source.js</scope>
+    <description>Handlebars helper method condition block</description>
+</snippet>
