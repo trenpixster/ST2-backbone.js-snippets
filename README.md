@@ -12,6 +12,10 @@ __iafn__ - Inline Anonymous Function
 
 __bbm__ - Backbone Method
 
+__bbo__ - Backbone option from view
+
+__bbr__ - Backbone render Method
+
 __hbh__ - Handlebars Helper method
 
 __hbhc__ - Handlebars Helper conditional method 
