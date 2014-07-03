@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[this.${0:object-name} = this.options.${0:object-name};
+]]></content>
+    <tabTrigger>bbo</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone.js options fill</description>
+</snippet>
