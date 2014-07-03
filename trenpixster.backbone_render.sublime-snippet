@@ -1,0 +1,12 @@
+<snippet>
+   <content><![CDATA[render: function() {
+  \$(this.el).html(this.template(this.${0:model}.toJSON()));
+
+  return this;
+},
+
+]]></content>
+    <tabTrigger>bbr</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone.js render method</description>
+</snippet>
